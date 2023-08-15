@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #2C5364 0%, #203A43 50%, #0F2027 100%); /* Fundo gradient escuro */
+    color: #333;
+}
+
+.card {
+    width: 80%;
+    max-width: 600px;
+    padding: 30px;
+    background-color: #f1f0f0;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Sombra mais escura */
+    border-radius: 10px;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+}
+
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 3px solid #e1e4e8;
+}
+
+.about-me {
+    font-size: 16px;
+    margin: 20px 0;
+    line-height: 1.5;
+}
+
+.social-links a {
+    margin: 0 15px;
+    font-size: 24px;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.social-links a:hover {
+    transform: scale(1.1);
+    color: #25D366;
+}
+
+/* Cores dos ícones */
+.social-links a[href*="linkedin.com"] i {
+    color: #0077b5;
+}
+
+.social-links a[href*="github.com"] i {
+    color: #333;
+}
+
+.social-links a[href*="youtube.com"] i {
+    color: #FF0000;
+}
+
+.social-links a[href*="bit.ly/portfoliopatrickmachado"] i {
+    color: #34495E;
+}
+
+.social-links a[href*="wa.me"] i {
+    color: #25D366;
+}
