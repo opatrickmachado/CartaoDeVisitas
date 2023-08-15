@@ -6,17 +6,17 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #2C5364 0%, #203A43 50%, #0F2027 100%); /* Fundo gradient escuro */
-    color: #333;
+    background: linear-gradient(135deg, #2C5364 0%, #203A43 50%, #0F2027 100%);
+    color: #f1f1f1; /* Mudança aqui */
 }
 
 .card {
     width: 80%;
     max-width: 600px;
-    padding: 30px;
-    background-color: #f1f0f0;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Sombra mais escura */
-    border-radius: 10px;
+    padding: 40px; /* Aumento do padding */
+    background: linear-gradient(135deg, #4a7485 0%, #3a4d5f 50%, #335063 100%);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25); /* Sombra mais pronunciada */
+    border-radius: 15px; /* Aumento do border-radius */
     text-align: center;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -28,47 +28,47 @@ body {
 }
 
 .profile-pic {
-    width: 120px;
-    height: 120px;
+    width: 130px; /* Aumento do tamanho da foto */
+    height: 130px;
     border-radius: 50%;
-    margin-bottom: 20px;
+    margin-bottom: 25px; /* Aumento da margem */
     border: 3px solid #e1e4e8;
 }
 
 .about-me {
-    font-size: 16px;
-    margin: 20px 0;
-    line-height: 1.5;
+    font-size: 17px; /* Aumento do tamanho da fonte */
+    margin: 25px 0; /* Aumento da margem */
+    line-height: 1.6;
+}
+
+/* Cores dos ícones */
+.social-links a[href*="linkedin.com"] i {
+    color: #0e76a8; /* Azul mais claro do LinkedIn */
+}
+
+.social-links a[href*="github.com"] i {
+    color: #6e5494; /* Roxo do GitHub */
+}
+
+.social-links a[href*="youtube.com"] i {
+    color: #c4302b; /* Vermelho mais claro do YouTube */
+}
+
+.social-links a[href*="bit.ly/portfoliopatrickmachado"] i {
+    color: #5a7d9a; /* Azul mais claro para o ícone do portfólio */
+}
+
+.social-links a[onclick*="showWhatsApp()"] i {
+    color: #25D366; /* Verde mais claro do WhatsApp */
 }
 
 .social-links a {
-    margin: 0 15px;
-    font-size: 24px;
+    margin: 0 20px; /* Aumento da margem */
+    font-size: 26px; /* Aumento do tamanho do ícone */
     transition: color 0.3s, transform 0.3s;
 }
 
 .social-links a:hover {
     transform: scale(1.1);
-    color: #25D366;
-}
-
-/* Cores dos ícones */
-.social-links a[href*="linkedin.com"] i {
-    color: #0077b5;
-}
-
-.social-links a[href*="github.com"] i {
-    color: #333;
-}
-
-.social-links a[href*="youtube.com"] i {
-    color: #FF0000;
-}
-
-.social-links a[href*="bit.ly/portfoliopatrickmachado"] i {
-    color: #34495E;
-}
-
-.social-links a[href*="wa.me"] i {
     color: #25D366;
 }
