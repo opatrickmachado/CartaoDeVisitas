@@ -1,30 +1,19 @@
 # Patrick Machado - Desenvolvedor Web
 
-Este é o código-fonte de um site pessoal para Patrick Machado, um Desenvolvedor Web Freelancer. O site inclui informações sobre Patrick, suas habilidades e links para suas redes sociais e portfólio.
+![Patrick Machado](https://media.licdn.com/dms/image/D4D22AQH6PBIKqLwRTw/feedshare-shrink_800/0/1692184718392?e=1695254400&v=beta&t=BHK3vSuWuVVONwBRw5TaOzDwqP9dtnaN_YcxHEDE0Ts)
 
-## Meu Cartão de Visita
+## Sobre Mim
 
-https://meucartaodevisitas.vercel.app/
+Sou Patrick Machado, um Desenvolvedor Web Freelancer altamente qualificado, especializado em Laravel e Vue.js. Estou comprometido com a excelência e sempre em busca de inovação.
 
-## Tecnologias Utilizadas
+## Redes Sociais e Portfólio
 
--   HTML5
--   CSS3
--   JavaScript (usado para interatividade)
+-   [LinkedIn](https://www.linkedin.com/in/patrickmachadodepaula/)
+-   [GitHub](https://github.com/opatrickmachado)
+-   [YouTube](https://www.youtube.com/@opatrickmachado)
+-   [Portfólio](https://bit.ly/portfoliopatrickmachado)
+-   [WhatsApp](https://wa.me/seu_numero_de_telefone) (Clique para abrir o WhatsApp)
 
-## Recursos Externos
+## Cartão de Visitas
 
--   [Font Awesome](https://fontawesome.com/) - Ícones usados para os links das redes sociais.
--   [Laravel](https://laravel.com/) - Framework para desenvolvimento backend (mencionado nas habilidades).
--   [Vue.js](https://vuejs.org/) - Framework JavaScript (mencionado nas habilidades).
-
-## Como Visualizar
-
-1. Faça o download do repositório.
-2. Abra o arquivo `index.html` em qualquer navegador web moderno.
-
-## Contato
-
--   LinkedIn: [Patrick Machado de Paula](https://www.linkedin.com/in/patrickmachadodepaula/)
--   GitHub: [@opatrickmachado](https://github.com/opatrickmachado)
--   YouTube: [@opatrickmachado](https://www.youtube.com/@opatrickmachado)
+![Cartão de Visitas](https://meucartaodevisitas.vercel.app/)
