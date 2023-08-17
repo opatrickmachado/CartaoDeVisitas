@@ -12,8 +12,8 @@ Sou Patrick Machado, um Desenvolvedor Web Freelancer altamente qualificado, espe
 -   [GitHub](https://github.com/opatrickmachado)
 -   [YouTube](https://www.youtube.com/@opatrickmachado)
 -   [Portfólio](https://bit.ly/portfoliopatrickmachado)
--   [WhatsApp](https://wa.me/seu_numero_de_telefone) (Clique para abrir o WhatsApp)
+-   [WhatsApp](https://wa.me/+5511973248818) (Clique para abrir o WhatsApp)
 
 ## Cartão de Visitas
 
-![Cartão de Visitas](https://meucartaodevisitas.vercel.app/)
+https://meucartaodevisitas.vercel.app/
